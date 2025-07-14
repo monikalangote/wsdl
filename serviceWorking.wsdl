@@ -64,8 +64,8 @@
             <xsd:element name="TrackOrderResponse">
                 <xsd:complexType>
                     <xsd:all>
-                        <xsd:element name="orderId1" type="xsd:string" />
-                        <xsd:element name="status" type="xsd:string" />
+                        <xsd:element name="orderId" type="xsd:string" />
+                        <xsd:element name="status1" type="xsd:string" />
                         <xsd:element name="size" type="ms:Size" />
                     </xsd:all>
                 </xsd:complexType>
